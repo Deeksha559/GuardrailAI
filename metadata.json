@@ -1,0 +1,6 @@
+{
+  "name": "GuardrailAI — DevSecOps & Architecture Code Review Engine",
+  "description": "Automated enterprise-grade Pull Request review platform with parallel DevSecOps and Software Architect agentic analysis tracks, enforcing repository guidelines and security guardrails.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
